@@ -48,8 +48,8 @@ float:none;
 #menu ul li{
 	list-style: none;
 	float:left;
-	margin-left: 25px;
-	margin-right: 25px; 
+	margin-left: 7%;
+	margin-right: 7%; 
 
 }
 #menu ul li a{
@@ -60,6 +60,7 @@ float:none;
 	color:#EAE6E6; 
 
 }
+
 
 /*SLIDER*/
 #slider{
@@ -160,6 +161,13 @@ color:white;
 	transform: scale(1.1,1.1)
 
 }
+
+
+#res1 {
+	margin-left: 25%;
+	list-style: none;		
+}
+
 
 /*VIDEOS*/
 
@@ -296,18 +304,6 @@ float:none;
 
 }
 
-}
 
-#res1  {
-	float:left;
-	text-align: 0px auto;
-	margin-left: 40%
-}
 
-#res1  ul li{
-	float:left;
-	text-align: 0px auto;
-	margin-left: 40%
-	list-style: none;
-}
 
